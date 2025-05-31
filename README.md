@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="public/logo-dark.png" alt="logo" width="140"  height="auto" />
+  <img src="public/hero-desktop.png" alt="logo" width="140" height="140" style="border-radius: 50%;" />
 
   <br/>
 </div>
